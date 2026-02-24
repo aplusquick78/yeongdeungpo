@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>영등포동 퀵서비스 | 24시 에이플러스 신속한 배송</title>
+  <link>https://yeongdeungpo.8222quick.com/</link>
+  <description>영등포구 영등포역 타임스퀘어 상권 24시 실시간 배차, 신속한 배송 원칙</description>
+  <language>ko-KR</language>
+  <pubDate>Tue, 24 Feb 2026 14:30:00 +0900</pubDate>
+  <lastBuildDate>Tue, 24 Feb 2026 14:30:00 +0900</lastBuildDate>
+  <atom:link href="https://yeongdeungpo.8222quick.com/rss.xml" rel="self" type="application/rss+xml" />
+
+  <item>
+    <title>영등포동 퀵서비스 영등포역 및 타임스퀘어 상가 신속한 배송 안내</title>
+    <link>https://yeongdeungpo.8222quick.com/index.html</link>
+    <description>영등포동 전지역 오토바이, 다마스, 라보 퀵서비스. 24시간 실시간 배차 및 상가 결제 지원.</description>
+    <category>퀵서비스</category>
+    <pubDate>Tue, 24 Feb 2026 14:30:00 +0900</pubDate>
+    <guid>https://yeongdeungpo.8222quick.com/index.html</guid>
+  </item>
+
+  <item>
+    <title>영등포동 퀵서비스 요금조회 및 차종별 요금표 안내</title>
+    <link>https://yeongdeungpo.8222quick.com/money.html</link>
+    <description>영등포동 퀵서비스 오토바이·다마스·라보 합리적인 요금 및 통합 네트워크 안내.</description>
+    <category>요금안내</category>
+    <pubDate>Tue, 24 Feb 2026 14:30:00 +0900</pubDate>
+    <guid>https://yeongdeungpo.8222quick.com/money.html</guid>
+  </item>
+</channel>
+</rss>
